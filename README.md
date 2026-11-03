@@ -4,7 +4,7 @@ Two innovation strategy projects from my Bachelor of Business Analytics (course 
 
 | Case | Project | File |
 |---|---|---|
-| SC Ventures (INSEAD case study) | Project Nexus: AI-driven innovation funnel for Standard Chartered | [Project Nexus - Slides.pdf](./Project%20Nexus%20-%20Slides.pptx) |
+| SC Ventures (INSEAD case study) | Project Nexus: AI-driven innovation funnel for Standard Chartered | [Project Nexus - Slides.pdf](./Project%20Nexus%20-%20Slides.pdf) |
 | PeopleCert: A Greek Unicorn Leveraging Digital for Organizational Efficiency and Upskilling (INSEAD case study) | From content gatekeeper to platform-driven upskilling ecosystem | [PeopleCert Case Analysis Report.pdf](./PeopleCert%20Case%20Analysis%20Report.pdf) |
 
 ---
